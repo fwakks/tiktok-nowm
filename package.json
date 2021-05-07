@@ -13,11 +13,19 @@
   "scripts": {
     "test": "echo \\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\"Error: no test specified\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\" && exit 1"
   },
+"repository": {
+    "type": "git",
+    "url": "git+https://github.com/rayyreall/tiktok-nowm.git"
+  },
   "keywords": [
     "tiktok-downloader",
 	"tiktok-nowm",
 	"tiktok"
   ],
   "author": "rayyreall",
-  "license": "ISC"
+  "license": "ISC",
+  "bug": {
+    "url": "https://github.com/rayyreall/tiktok-nowm/issues"
+  }
+  "homepage": "https://github.com/rayyreall/tiktok-nowm#readme"
 }
