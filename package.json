@@ -1,0 +1,23 @@
+{
+  "name": "tiktok-downloader-nowm",
+  "version": "1.0.0",
+  "description": "Tiktok downloader no wm",
+  "main": "index.js",
+  "directories": {
+    "lib": "lib"
+  },
+  "dependencies": {
+	"cheerio": "^1.0.0-rc.9",
+	"puppeteer": "^9.1.1"
+  },
+  "scripts": {
+    "test": "echo \\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\"Error: no test specified\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\" && exit 1"
+  },
+  "keywords": [
+    "tiktok-downloader",
+	"tiktok-nowm",
+	"tiktok"
+  ],
+  "author": "rayyreall",
+  "license": "ISC"
+}
