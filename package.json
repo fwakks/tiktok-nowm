@@ -1,7 +1,5 @@
 {
   "name": "t",
-  "version": "1.0.0",
-  "description": "Tiktok downloader no wm",
   "main": "index.js",
   "directories": {
     "lib": "lib"
